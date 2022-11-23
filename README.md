@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 🤝 I’m looking for help with **networking with new and experience industry professionals**
+- 🤝 I’m looking to **network with new and experienced industry professionals**
 
 - 📫 How to reach me **https://www.linkedin.com/in/michael-menjares/**
 
